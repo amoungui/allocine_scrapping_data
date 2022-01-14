@@ -19,7 +19,7 @@ class MovieEntityManager(base, entity):
         """                                
   
         data = {
-            'title': self.getTitle(),
+            'title': self.gettitle(),
             'date_reprise': self.getre_release_date(),
             'date_sortie': self.getrelease_date(),
             'duration': self.getduration(),

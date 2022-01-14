@@ -46,7 +46,9 @@ def movie_launcher():
                     the_movie_info_section = movie_html_soup.select('.meta-body')[0]
                     the_rating_info_section = movie_html_soup.select('.rating-item')
                     manager = Manager([the_title, the_movie_info_section, the_rating_info_section, movie_html_soup]) # initialization of Manager  of movie
-                    print(manager.test())      
+                    #print(manager.test()) 
+                    manager.parse_json() # convert the current objet to dictionnary
+                    manager.to_csv() # register the current entity of movie into the csv file     
                 break           
         break
 

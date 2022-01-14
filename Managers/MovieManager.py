@@ -1,5 +1,5 @@
 from Managers.MovieEntityManager import MovieEntityManager as EntityManager
-import dateparser
+#import dateparser
 import numpy as np
 
 class MovieManager(EntityManager):
