@@ -5,8 +5,8 @@ class MovieEntityManager(base, entity):
     dataset = []
     
     def __init__(self):
-        base.__init__()
-        entity.__init__()
+        base.__init__(self)
+        entity.__init__(self)
     
     def parse_json(self):
         """Construct a dictionary from the object pass as a parameter 

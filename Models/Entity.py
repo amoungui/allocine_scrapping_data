@@ -17,7 +17,7 @@ class Entity:
         self.user_rating = np.nan 
         self.nber_user_vote = np.nan 
 
-    def getTitle(self):
+    def gettitle(self):
         """get the title of the moive entity
         Args:
             None
