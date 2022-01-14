@@ -1,2 +1,57 @@
 title,date_reprise,date_sortie,duration,director,actors,genre,nationality,press_rating,nb_press,spec_rating,nb_spec
 Spider-Man: No Way Home,2021,15 décembre 2021,2h29min,"['Chris McKenna', 'Erik Sommers']","['Tom Holland', 'Zendaya', 'Benedict Cumberbatch']","['Action,', 'Aventure,', 'Fantastique']",['américain'],"3,3",25,"4,2",9256
+The King's Man : Première Mission,2021,29 décembre 2021,2h11min,"['Matthew Vaughn', 'Karl Gajdusek']","['Ralph Fiennes', 'Gemma Arterton', 'Rhys Ifans']","['Action,', 'Espionnage']",['britannique'],"3,1",17,"3,6",2102
+Matrix Resurrections,2021,22 décembre 2021,2h28min,"['Lana Wachowski', 'David Mitchell']","['Keanu Reeves', 'Carrie-Anne Moss', 'Yahya Abdul-Mateen II']","['Science', 'fiction,', 'Action']",['américain'],"3,4",28,"2,6",4434
+En Attendant Bojangles,2020,5 janvier 2022,2h05min,"['Romain Compingt', 'Regis Roinsard']","['Virginie Efira', 'Romain Duris', 'Solan Machado-Graner']","['Comédie', 'dramatique']","['français,', 'belge']","2,9",28,"3,8",1064
+Don’t Look Up: Déni cosmique,2021,24 décembre 2021,2h22min,['Adam McKay'],"['Leonardo DiCaprio', 'Jennifer Lawrence', 'Meryl Streep']",['Comédie'],['américain'],"3,9",27,"3,9",6095
+Tous en scène 2,2021,22 décembre 2021,1h50min,['Garth Jennings'],"['Jenifer Bartoli', 'Elodie Martelet', 'Camille Combal']","['Animation,', 'Comédie', 'musicale,', 'Famille']",['américain'],"3,5",20,"4,3",1277
+"Encanto, la fantastique famille Madrigal",2021,24 novembre 2021,1h43min,"['Jared Bush', 'Charise Castro Smith']","['Camille Timmerman', 'José Garcia', 'Juan Arbelaez']","['Animation,', 'Famille,', 'Fantastique,', 'Comédie']",['américain'],"3,7",17,"3,8",2430
+West Side Story,2021,8 décembre 2021,2h37min,"['Tony Kushner', 'Arthur Laurents']","['Ansel Elgort', 'Rachel Zegler', 'Ariana DeBose']","['Romance,', 'Musical,', 'Drame']",['américain'],"4,0",35,"4,2",2548
+Un héros,2021,15 décembre 2021,2h07min,['Asghar Farhadi'],"['Amir Jadidi', 'Mohsen Tanabandeh', 'Sahar Goldust']","['Thriller,', 'Drame']","['iranien,', 'français']","4,0",31,"3,9",872
+355,2021,5 janvier 2022,2h03min,"['Theresa Rebeck', 'Simon Kinberg']","['Jessica Chastain', 'Penélope Cruz', 'Bingbing Fan']","['Action,', 'Espionnage,', 'Thriller']",['américain'],"2,8",4,"3,0",462
+Mystère,2019,15 décembre 2021,1h23min,"['Denis Imbert', 'Mathieu Oullion']","['Vincent Elbaz', 'Shanna Keil', 'Marie Gillain']","['Aventure,', 'Famille']",['français'],"3,0",5,"3,8",487
+Licorice Pizza,2021,5 janvier 2022,2h13min,['Paul Thomas Anderson'],"['Alana Haim', 'Cooper Hoffman', 'Bradley Cooper']","['Drame,', 'Comédie,', 'Romance']",['américain'],"4,5",34,"3,8",1149
+Madeleine Collins,2021,22 décembre 2021,1h47min,"['Antoine Barraud', 'Helena Klotz']","['Virginie Efira', 'Bruno Salomone', 'Quim Gutiérrez']",['Drame'],"['français,', 'belge,', 'suisse']","3,7",27,"3,5",806
+Les Tuche 4,2020,8 décembre 2021,1h41min,"['Olivier Baroux', 'Philippe Mechelen']","['Jean-Paul Rouve', 'Isabelle Nanty', 'Michel Blanc']",['Comédie'],['français'],"3,0",14,"1,8",2122
+Mes très chers enfants,2020,15 décembre 2021,1h35min,['Alexandra Leclère'],"['Josiane Balasko', 'Didier Bourdon', 'Marilou Berry']",['Comédie'],['français'],"2,8",4,"3,1",601
+Le Test,2020,29 décembre 2021,1h19min,"['Emmanuel Poulain-Arnaud', 'Noé Debré']","['Alexandra Lamy', 'Philippe Katerine', 'Joaquim Fossi']",['Comédie'],['français'],"3,4",16,"3,4",695
+Nos plus belles années,2020,29 décembre 2021,2h15min,"['Gabriele Muccino', 'Paolo Costella']","['Pierfrancesco Favino', 'Micaela Ramazzotti', 'Kim Rossi Stuart']","['Comédie', 'dramatique,', 'Drame,', 'Comédie']",['italien'],"3,1",15,"3,9",227
+Qu'est-ce qu'on a tous fait au Bon Dieu ?,2021,6 avril 2022,nan,"['Philippe de Chauveron', 'Guy Laurent']","['Christian Clavier', 'Chantal Lauby', 'Ary Abittan']",[],['français'],nan,nan,nan,nan
+Scream,2022,12 janvier 2022,1h55min,"['James Vanderbilt', 'Guy Busick']","['Neve Campbell', 'Courteney Cox', 'David Arquette']","['Epouvante-horreur,', 'Thriller']",['américain'],"2,7",18,"3,3",394
+Nightmare Alley,2021,19 janvier 2022,2h31min,"['Guillermo del Toro', 'Kim Morgan']","['Bradley Cooper', 'Cate Blanchett', 'Toni Collette']","['Drame,', 'Thriller']",['américain'],nan,nan,nan,nan
+Belle,2021,29 décembre 2021,2h02min,"['Mamoru Hosoda', 'Mamoru Hosoda']","['Louane Emera', 'Florent Dorin', 'Antonin Icovic']","['Animation,', 'Aventure,', 'Drame']",['japonais'],"3,8",34,"4,0",487
+Mes frères et moi,2021,5 janvier 2022,1h48min,"['Yohan Manca', 'Hédi Tillette de Clermont-Tonnerre']","['Maël Rouin Berrandou', 'Judith Chemla', 'Dali Benssalah']",['Drame'],['français'],"3,6",22,"4,2",466
+Madres paralelas,2021,1 décembre 2021,2h00min,['Pedro Almodóvar'],"['Penélope Cruz', 'Milena Smit', 'Israel Elejalde']",['Drame'],['espagnol'],"3,9",38,"3,9",2084
+Adieu Monsieur Haffmann,2020,12 janvier 2022,1h56min,"['Fred Cavayé', 'Sarah Kaminsky']","['Daniel Auteuil', 'Gilles Lellouche', 'Sara Giraudeau']","['Drame,', 'Historique']",['français'],"3,3",21,"4,0",234
+The Card Counter,2021,29 décembre 2021,1h52min,['Paul Schrader'],"['Oscar Isaac', 'Tye Sheridan', 'Tiffany Haddish']","['Thriller,', 'Drame']","['américain,', 'britannique,', 'chinois']","4,2",28,"3,4",706
+Tromperie,2021,29 décembre 2021,1h45min,"['Arnaud Desplechin', 'Julie Peyr']","['Denis Podalydès', 'Léa Seydoux', 'Anouk Grinberg']","['Drame,', 'Romance']",['français'],"3,6",26,"2,6",360
+Ouistreham,2020,12 janvier 2022,1h46min,"['Emmanuel Carrère', 'Hélène Devynck']","['Juliette Binoche', 'Hélène Lambert', 'Léa Carne']",['Drame'],['français'],"3,5",35,"3,8",170
+House of Gucci,2021,24 novembre 2021,2h37min,"['Roberto Bentivegna', 'Becky Johnston']","['Lady Gaga', 'Adam Driver', 'Al Pacino']","['Biopic,', 'Drame']","['américain,', 'canadien']","2,9",27,"3,7",3264
+Twist À Bamako,2021,5 janvier 2022,2h09min,"['Robert Guédiguian', 'Gilles Taurand']","['Stéphane Bak', 'Alicia Da Luz Gomes', 'Saabo Balde']","['Drame,', 'Historique']","['français,', 'canadien,', 'sénégalais']","3,6",29,"3,4",189
+Lamb,2021,29 décembre 2021,1h46min,"['Valdimar Jóhannsson', 'Sjón']","['Noomi Rapace', 'Hilmir Snær Guðnason', 'Björn Hlynur Haraldsson']","['Drame,', 'Epouvante-horreur']","['islandais,', 'suédois,', 'polonais']","3,5",29,"3,1",358
+Ouistreham,2020,12 janvier 2022,1h46min,"['Emmanuel Carrère', 'Hélène Devynck']","['Juliette Binoche', 'Hélène Lambert', 'Léa Carne']",['Drame'],['français'],"3,5",35,"3,8",170
+S.O.S. Fantômes : L'Héritage,2021,1 décembre 2021,2h04min,"['Gil Kenan', 'Jason Reitman']","['Carrie Coon', 'Finn Wolfhard', 'Mckenna Grace']","['Aventure,', 'Action,', 'Comédie']",['américain'],"3,0",23,"3,6",2253
+Chère Léa,2020,15 décembre 2021,1h30min,['Jérôme Bonnell'],"['Grégory Montel', 'Grégory Gadebois', 'Anaïs Demoustier']","['Comédie', 'dramatique']",['français'],"3,4",23,"2,9",274
+Impardonnable,2021,10 décembre 2021,1h52min,"['Peter Craig', 'Hillary Seitz']","['Sandra Bullock', ""Vincent D'Onofrio"", 'Jon Bernthal']","['Drame,', 'Thriller']",['américain'],"3,3",4,"3,9",1163
+Clifford,2021,1 décembre 2021,1h37min,"['Jay Scherick', 'David Ronn']","['Russell Peters', 'Darby Camp', 'Jack Whitehall']","['Famille,', 'Aventure,', 'Comédie']",['américain'],"2,4",9,"3,1",274
+Vaillante,2021,2 février 2022,1h33min,"['Jennica Harper', 'Laurent Zeitoun']","['Alice Pol', 'Vincent Cassel', 'Valérie Lemercier']","['Animation,', 'Famille,', 'Comédie']","['français,', 'canadien']",nan,nan,nan,nan
+Placés,2021,12 janvier 2022,1h51min,"['Nessim Chikhaoui', 'Hélène Fillières']","['Shaïn Boumedine', 'Julie Depardieu', 'Philippe Rebbot']","['Comédie', 'dramatique']",['français'],"3,3",16,"4,1",114
+La Méthode Williams,2021,1 décembre 2021,2h18min,['Zach Baylin'],"['Will Smith', 'Saniyya Sidney', 'Demi Singleton']","['Drame,', 'Biopic']",['américain'],"3,1",21,"4,2",1155
+Permis de construire,2020,9 mars 2022,1h33min,"['Eric Fraticelli', 'Didier Bourdon']","['Didier Bourdon', 'Eric Fraticelli', 'Anne Consigny']",['Comédie'],['français'],nan,nan,nan,nan
+A Perfect Enemy,2020,29 décembre 2021,1h30min,"['Cristina Clemente', 'Fernando Navarro']","['Tomasz Kot', 'Athena Strates', 'Marta Nieto']",['Thriller'],"['espagnol,', 'allemand,', 'français']","2,3",6,"3,3",53
+Les Bodin's en Thaïlande,2021,17 novembre 2021,1h38min,['Frédéric Forestier'],"['Vincent Dubois', 'Jean-Christian Fraiscinet', 'Bella Boonsang']","['Aventure,', 'Comédie']",['français'],"2,0",4,"2,9",597
+Les Choses humaines,2021,1 décembre 2021,2h18min,"['Yaël Langmann', 'Yvan Attal']","['Ben Attal', 'Suzanne Jouannet', 'Charlotte Gainsbourg']","['Drame,', 'Judiciaire']",['français'],"3,1",28,"3,9",988
+La Leçon d'allemand,2019,12 janvier 2022,2h05min,"['Heide Schwochow', 'Siegfried Lenz']","['Ulrich Noethen', 'Tobias Moretti', 'Levi Eisenblätter']","['Drame,', 'Historique']",['allemand'],"2,9",15,"2,9",14
+Rose,2021,8 décembre 2021,1h43min,"['Yaël Langmann', 'Aurélie Saada']","['Françoise Fabian', 'Aure Atika', 'Grégory Montel']","['Drame,', 'Comédie']",['français'],"3,6",18,"3,4",335
+Princesse Dragon,2021,15 décembre 2021,1h14min,"['Jean-Jacques Denis', 'Anthony Roux']","['Lila Lacombe', 'Kaycie Chase', 'Jérémie Covillault']",['Animation'],['français'],"3,4",15,"3,8",78
+Aline,2020,10 novembre 2021,2h06min,"['Valérie Lemercier', 'Brigitte Buc']","['Valérie Lemercier', 'Sylvain Marcel', 'Danielle Fichaud']","['Drame,', 'Biopic,', 'Musical']","['français,', 'canadien,', 'belge']","4,1",35,"4,0",3545
+Dune,2021,15 septembre 2021,2h36min,"['Jon Spaihts', 'Denis Villeneuve']","['Timothée Chalamet', 'Rebecca Ferguson', 'Oscar Isaac']","['Science', 'fiction,', 'Drame']",['américain'],"4,0",40,"4,3",15356
+Les Amants sacrifiés,2020,8 décembre 2021,1h55min,"['Ryusuke Hamaguchi', 'Tadashi Nohara']","['Yû Aoi', 'Issey Takahashi', 'Masahiro Higashide']","['Drame,', 'Historique']",['japonais'],"3,9",23,"3,6",418
+La Main de Dieu,2021,15 décembre 2021,2h14min,['Paolo Sorrentino'],"['Filippo Scotti', 'Toni Servillo', 'Teresa Saponangelo']","['Drame,', 'Biopic']",['italien'],"3,6",17,"3,7",374
+The Lost Daughter,2021,31 décembre 2021,2h02min,"['Maggie Gyllenhaal', 'Elena Ferrante']","['Olivia Colman', 'Jessie Buckley', 'Dakota Johnson']",['Drame'],"['américain,', 'grec']","3,4",17,"2,9",283
+The Chef,2021,19 janvier 2022,1h34min,"['Philip Barantini', 'James Cummings']","['Stephen Graham', 'Vinette Robinson', 'Jason Flemyng']","['Thriller,', 'Drame']",['britannique'],nan,nan,nan,nan
+xXx,2002,9 octobre 2002,2h04min,['Rich Wilkes'],"['Vin Diesel', 'Samuel L. Jackson', 'Asia Argento']","['Action,', 'Thriller,', 'Aventure']",['américain'],"3,4",21,"2,3",10699
+Une femme du monde,2020,8 décembre 2021,1h35min,['Cécile Ducrocq'],"['Laure Calamy', 'Nissim Renard', 'Béatrice Facquer']",['Drame'],['français'],"3,6",25,"3,8",423
+La Croisade,2021,22 décembre 2021,1h06min,"['Louis Garrel', 'Jean-Claude Carrière']","['Lionel Dray', 'Laetitia Casta', 'Joseph Engel']",['Comédie'],['français'],"3,3",22,"2,2",142
+Les Eternels,2021,3 novembre 2021,2h37min,"['Chloé Zhao', 'Patrick Burleigh']","['Gemma Chan', 'Richard Madden', 'Salma Hayek']","['Science', 'fiction,', 'Fantastique,', 'Action']",['américain'],"2,9",30,"3,6",5057
+L'Evénement,2021,24 novembre 2021,1h40min,"['Audrey Diwan', 'Marcia Romano']","['Anamaria Vartolomei', 'Kacey Mottet Klein', 'Luàna Bajrami']",['Drame'],['français'],"4,1",33,"4,1",1063

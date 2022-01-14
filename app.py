@@ -22,7 +22,8 @@ def movie_launcher():
     """     
 
     # init list to save errors
-    errors = []    
+    errors = [] 
+    i = 1   
     for p in range(1, 4000):
         # Get request
         url = 'http://www.allocine.fr/films/?page={}'.format(str(p))
@@ -33,10 +34,11 @@ def movie_launcher():
 
         # Select all the movies url from a single page
         movies = html_soup.find_all('h2', 'meta-title')        
-
+        
         for movie in movies:   
             res = requests.get('http://www.allocine.fr{}'.format(movie.a['href']))
             if res.ok:
+                print(i)
                 movie_html_soup = BeautifulSoup(res.content.decode("utf-8"), 'html.parser') # we get the soup content
                 if movie_html_soup.find('div', 'titlebar-title'):
                     # Scrape the title
@@ -48,9 +50,9 @@ def movie_launcher():
                     manager = Manager([the_title, the_movie_info_section, the_rating_info_section, movie_html_soup]) # initialization of Manager  of movie
                     #print(manager.test()) 
                     manager.parse_json() # convert the current objet to dictionnary
-                    manager.to_csv() # register the current entity of movie into the csv file     
-                break           
-        break
-
+                    manager.to_csv() # register the current entity of movie into the csv file
+                    time.sleep(2)               
+                i+=1
+                
 if __name__ == '__main__':
     print(movie_launcher())
