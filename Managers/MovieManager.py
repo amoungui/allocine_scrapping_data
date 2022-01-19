@@ -1,6 +1,7 @@
 from Managers.MovieEntityManager import MovieEntityManager as EntityManager
-#import dateparser
+import dateparser 
 import numpy as np
+
 
 class MovieManager(EntityManager):
     def __init__(self, tags:list):
@@ -29,7 +30,8 @@ class MovieManager(EntityManager):
     def the_release_date(self):
         try:
             if self.tags[1].find('span', 'date'):
-                self.setrelease_date(self.tags[1].find('span', 'date').text.strip())
+                a_date = self.tags[1].find('span', 'date').text
+                self.setrelease_date(dateparser.parse(a_date, settings={'TIMEZONE': 'US/Eastern'}))
         except (TypeError, AttributeError, IndexError):
             pass
 
@@ -52,9 +54,9 @@ class MovieManager(EntityManager):
             arr = []
             for i in cors:    
                 if i.find('span', 'light').text.strip() == 'Par':
-                    arr = [e.text.strip() for e in i.find_all('span')][1:]
+                    arr = [e.text.replace(',', '').strip() for e in i.find_all('span')][1:]
                 else:
-                    arr = [e.text.strip() for e in i.find_all('span')][1:] 
+                    arr = [e.text.replace(',', '').strip() for e in i.find_all('span')][1:] 
             self.setdirectors(arr)
         except (TypeError, AttributeError, IndexError):
             pass
@@ -71,7 +73,7 @@ class MovieManager(EntityManager):
             l = self.tags[1].find('div', attrs={'class':'meta-body-item meta-body-info'}).text.split()
             arr = np.array(l)
             index = np.where(arr=='/')
-            self.setgenre([l[i] for i in range(int(index[0][1])+1, len(l))])
+            self.setgenre([l[i].replace(',', '').strip() for i in range(int(index[0][1])+1, len(l))])
         except (TypeError, AttributeError, IndexError):
             pass
 
@@ -134,7 +136,5 @@ class MovieManager(EntityManager):
             self.getuser_rating(),
             self.getnber_user_vote()
         ]
-
-
 
 

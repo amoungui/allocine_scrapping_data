@@ -23,7 +23,7 @@ class SourceManager(ABC):
             None
         """        
         directory = os.path.dirname(os.path.dirname(__file__)) # we get the right path.
-        path_to_file = os.path.join(directory, "data", 'allocine_movies.csv') # with this path, we go inside the folder `data` and get the file.
+        path_to_file = os.path.join(directory, "data", 'allocine_movies_brute.csv') # with this path, we go inside the folder `data` and get the file.
         
         with open(path_to_file, 'w', encoding='utf-8') as csv_file: # we open the file as csv_file in w mode.
             writer = csv.DictWriter(csv_file, fieldnames=type(self).dataset[0].keys()) # instatiation of Writer objet that get the file and the fieldnames

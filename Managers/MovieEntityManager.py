@@ -20,12 +20,12 @@ class MovieEntityManager(base, entity):
   
         data = {
             'title': self.gettitle(),
-            'date_reprise': self.getre_release_date(),
-            'date_sortie': self.getrelease_date(),
+            'release_year': self.getre_release_date(),
+            'release_date': self.getrelease_date(),
             'duration': self.getduration(),
-            'director':self.getdirectors(),
+            'directors':self.getdirectors(),
             'actors': self.getactors(),
-            'genre': self.getgenre(),
+            'genres': self.getgenre(),
             'nationality':self.getnationality(),
             'press_rating': self.getpress_rating(),
             'nb_press': self.getnber_press_vote(),

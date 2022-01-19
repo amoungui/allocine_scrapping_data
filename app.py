@@ -43,7 +43,6 @@ def movie_launcher():
                 if movie_html_soup.find('div', 'titlebar-title'):
                     # Scrape the title
                     the_title = movie_html_soup.find('div', 'titlebar-title').text 
-
                     # Set cursors                                   
                     the_movie_info_section = movie_html_soup.select('.meta-body')[0]
                     the_rating_info_section = movie_html_soup.select('.rating-item')
