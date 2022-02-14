@@ -5,7 +5,7 @@ AlloCiné is an information company on French cinema and reviews of the press an
 ## 🗃️ The Visualization Data
 🎉🎉🎉 **Update** : the link to visualize analysis of data from allociné is available [here](https://share.streamlit.io/amoungui/allocine_visualization_data/app.py)
 
-🎉🎉🎉 **Update** : a module to retrieve the data from allociné is available [here](https://github.com/amoungui/allocine_scrapping_data)
+🎉🎉🎉 **Update** : source code of data visualization using streamlit is available [here](https://github.com/amoungui/allocine_visualization_data)
 
 ### 📝 Description of the data
 We provide the dataset in csv version (brut and clean versions) : [allocine_movies_brute.csv](https://samoungui.com/wp-content/uploads/2022/01/allocine_movies_brute.csv)
